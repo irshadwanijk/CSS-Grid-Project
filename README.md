@@ -1,2 +1,2 @@
 # CSS-Grid-Project
-CSS Grid project of frontendmasters.com.
+CSS Grid project of frontendmentor.io
